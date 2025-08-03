@@ -1,2 +1,3 @@
 # python-programming
-my python projects
+full stack data science using python
+
